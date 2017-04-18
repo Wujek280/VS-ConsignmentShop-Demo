@@ -1,0 +1,5 @@
+c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ConsigmentShopLibrary.csprojResolveAssemblyReference.cache
+c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ConsigmentShopLibrary.dll
+c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\ClassLibrary1\bin\Debug\ConsigmentShopLibrary.pdb
+c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ConsigmentShopLibrary.dll
+c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\ClassLibrary1\obj\Debug\ConsigmentShopLibrary.pdb
