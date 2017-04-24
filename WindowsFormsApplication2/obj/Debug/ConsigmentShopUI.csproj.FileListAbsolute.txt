@@ -7,3 +7,6 @@ c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\W
 c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.ConsigmentShop.resources
 c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
 c:\users\marcin\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\ConsigmentShopUI.csproj.GenerateResource.Cache
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\VS-ConsignmentShop-Demo\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\VS-ConsignmentShop-Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Marcin\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\VS-ConsignmentShop-Demo\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
